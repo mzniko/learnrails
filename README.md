@@ -1,4 +1,4 @@
-## Working through Learn Ruby on Rails v.1.19
+### Working through Learn Ruby on Rails v.1.19
 
 start: Wed 29 Jan 2014
 
